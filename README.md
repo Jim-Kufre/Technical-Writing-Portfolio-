@@ -1,4 +1,4 @@
-JIM KUFRE
+**JIM KUFRE**
 
 ****Technical Writer | Software Documentation****
 
