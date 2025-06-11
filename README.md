@@ -19,6 +19,17 @@ This repository showcases my technical writing skills through a variety of sampl
 - ***Concept Topics:*** Clear explanations of software features and key ideas to help users understand important concepts.
 - ***Task Topics:*** Step-by-step guides and tutorials for common user actions and workflows.
 - ***Reference Topics:*** Quick access to commands, shortcuts, and technical details for easy lookup.
-- ***API Documentation Samples:*** Structured documentation illustrating how to use software APIs effectively.
 - ***User Guides and Manuals:*** Comprehensive documentation combining concepts, tasks, and references for real-world applications.
 - ***Markdown & DITA Examples:*** Demonstrations of best practices in technical writing formats, including Markdown and DITA standards.
+
+
+**TOOLS I USE**
+
+These are the tools I use regularly for technical writing, documentation, and collaboration:
+
+- *Markdown* – For clean, readable documentation  
+- *Git & GitHub* – For version control and publishing docs  
+- *Notion* – For Organizing writing plans
+- *Google Docs* – For writing initial drafts
+- ***DITA*** – For structured writing.
+- ***Canva*** - For creating diagrams.
