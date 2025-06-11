@@ -31,5 +31,5 @@ These are the tools I use regularly for technical writing, documentation, and co
 - *Git & GitHub* – For version control and publishing docs  
 - *Notion* – For Organizing writing plans
 - *Google Docs* – For writing initial drafts
-- ***DITA*** – For structured writing.
-- ***Canva*** - For creating diagrams.
+- ***DITA*** – For structured writing
+- ***Canva*** - For creating diagrams
