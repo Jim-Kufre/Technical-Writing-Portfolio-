@@ -12,6 +12,7 @@ I’m Jim Kufre, a dedicated Technical Writer specializing in software documenta
 With a strong foundation in technical writing principles and hands-on experience from training projects, I’m ready to deliver high-quality documentation that meets both user needs and business goals. I’m passionate about turning complex software features into simple, engaging guides and have a keen eye for detail, consistency, and usability.
 
 
+
 **WHAT THIS REPOSITORY CONTAINS**
 
 This repository showcases my technical writing skills through a variety of sample documentation projects focused on software products. You’ll find:
